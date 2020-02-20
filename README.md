@@ -1,3 +1,3 @@
 ## React Hooks practice
 
-Created a simple react application for online react hiring challenge.
+This is a simple react application to create, view, delete and store data in local storage using React Hooks.
